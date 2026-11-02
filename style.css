@@ -4,3 +4,12 @@
   padding: 1px;
   width: 376px
 }
+#carduno{
+  background-color:#5e5e5e;
+}
+.description{
+  color:rgba(255, 3, 3)
+}
+body{
+  background:#000000 url('https://i.imgflip.com/8h64n2.jpg') repeat;
+}
